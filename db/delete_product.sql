@@ -1,0 +1,1 @@
+delete from products where ProductID = $1;
